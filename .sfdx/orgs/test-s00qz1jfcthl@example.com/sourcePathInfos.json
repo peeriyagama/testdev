@@ -32,16 +32,14 @@
     [
         "C:\\sfdxtest\\myproject\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1527223176614,
-            "changeTime": 1527223176614,
-            "contentHash": "e1d9076e9735cc7dbaec092691a0a18c2243ac19",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1527226175121,
+            "changeTime": 1527226175121,
+            "contentHash": "10bc94e1e37861f5fc969abb3efbc4833b4f9e31"
         }
     ],
     [
@@ -362,14 +360,14 @@
     [
         "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1527224763297,
             "changeTime": 1527224763297,
-            "contentHash": "cf3514beaa3d52b3197cc78b5d688d7aef23c43e"
+            "contentHash": "cf3514beaa3d52b3197cc78b5d688d7aef23c43e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -450,14 +448,79 @@
     [
         "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets\\test.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets\\test.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1239,
             "modifiedTime": 1527224763300,
             "changeTime": 1527224763300,
-            "contentHash": "9462e1cfa0911918f300748213d1a990e145ccf1"
+            "contentHash": "9462e1cfa0911918f300748213d1a990e145ccf1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\TestsimpleMethod.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\TestsimpleMethod.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1527226175126,
+            "changeTime": 1527226175126,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\TestsimpleMethod.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\TestsimpleMethod.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 141,
+            "modifiedTime": 1527226175129,
+            "changeTime": 1527226175129,
+            "contentHash": "38124b09da246a2f8301d380c921622cf157e54d"
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\SimpleStaticClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\SimpleStaticClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1527226175136,
+            "changeTime": 1527226175136,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\SimpleStaticClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes\\SimpleStaticClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 133,
+            "modifiedTime": 1527226175138,
+            "changeTime": 1527226175138,
+            "contentHash": "e44c1eb37b3fd602df4802f6e997b2b1a38be93f"
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527226175137,
+            "changeTime": 1527226175137,
+            "contentHash": "d303d87942182c1bab79da30a726ecaf3421bd3b"
         }
     ]
 ]

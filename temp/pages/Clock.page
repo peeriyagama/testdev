@@ -1,0 +1,57 @@
+<apex:page >
+    
+    <html>
+        <style>
+            #body {
+            background-color: black;
+            color: white;
+            }
+            
+            #time {
+            font-family: 'Nova Mono', monospace;
+            font-size: 6vw;
+            text-align: center;
+            text-shadow: 0px 0px 5px;
+            }
+            
+            #date {
+            font-family: 'Eczar', serif;
+            font-size: 5vmin;
+            text-align: center;
+            text-shadow: 0px 0px 5px blue;
+            }
+            
+        </style>
+        
+        <head>
+            <title>Title</title>
+            <meta name="viewport" content="width=device-width, initial-scale=0.5"/>
+            <!-- Add online Bootstrap -->
+            <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"/>
+            
+        </head>
+        
+        <body id="body" class="container-fluid">
+            
+            <div id="div1">
+                <p id="time"></p>
+                <p id="date"></p>
+            </div>
+            
+            <!-- Add online jQuery -->
+            <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous">
+            </script>
+            
+            <script>
+            window.setInterval(ut, 1000);
+            
+            function ut() {
+                var d = new Date();
+                document.getElementById("time").innerHTML = d.toLocaleTimeString();
+                document.getElementById("date").innerHTML = d.toLocaleDateString();
+            }
+            </script>
+        </body>
+    </html>
+    
+</apex:page>

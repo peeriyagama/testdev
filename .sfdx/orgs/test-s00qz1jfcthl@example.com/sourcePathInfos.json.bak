@@ -1,0 +1,452 @@
+[
+    [
+        "C:\\sfdxtest\\myproject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527221757021,
+            "changeTime": 1527221757021,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527221757021,
+            "changeTime": 1527221757021,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176614,
+            "changeTime": 1527223176614,
+            "contentHash": "e1d9076e9735cc7dbaec092691a0a18c2243ac19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176528,
+            "changeTime": 1527223176528,
+            "contentHash": "6e3a7d05a7aaac1ddf19c4088f7d56aaad958ca4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\applications\\Instruments_Manager.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\applications\\Instruments_Manager.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1527223176530,
+            "changeTime": 1527223176530,
+            "contentHash": "7fb28642d1618966e2bd5355fe665ef7874f622a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527221757022,
+            "changeTime": 1527221757022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176539,
+            "changeTime": 1527223176539,
+            "contentHash": "730bcbb37a877f0d3c3fa163a72f9f7effced66f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176626,
+            "changeTime": 1527223176626,
+            "contentHash": "2038cacbf5bf0113cd4e531ee895b36383c5423f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images\\im_logo.document-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images\\im_logo.document-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 209,
+            "modifiedTime": 1527223176625,
+            "changeTime": 1527223176625,
+            "contentHash": "116275b2b53755fd6c5893530ba699ec52579e9e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images\\im_logo.png",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images\\im_logo.png",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 560,
+            "modifiedTime": 1527223176628,
+            "changeTime": 1527223176628,
+            "contentHash": "a4f952feac12fe346654e160811bc06d995be92a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images.documentFolder-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\documents\\Test_images.documentFolder-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 241,
+            "modifiedTime": 1527223176537,
+            "changeTime": 1527223176537,
+            "contentHash": "6205a68247ffa98799b7c2ad7b3a56b5513cebfb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176544,
+            "changeTime": 1527223176544,
+            "contentHash": "8b90b594cc0129cba920db9d58630844973184d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\layouts\\Instrument__c-Instrument Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\layouts\\Instrument__c-Instrument Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2235,
+            "modifiedTime": 1527223176546,
+            "changeTime": 1527223176546,
+            "contentHash": "c03c3add7185da325461661e3b8680b57c24c7f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176561,
+            "changeTime": 1527223176561,
+            "contentHash": "b29be97ec300a92dfbc7ce2d1dc89e54bbca156f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176584,
+            "changeTime": 1527223176584,
+            "contentHash": "00815b0e68e52c13ec7afd7f9d7d224bae0aec99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176577,
+            "changeTime": 1527223176577,
+            "contentHash": "fadf0c6b50dcfb4519fd1785580a913d792fed2c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1527223176576,
+            "changeTime": 1527223176576,
+            "contentHash": "aaddd68cdace864c5060c87610ba67f8b7971e6d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields\\Instrument_ID__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\fields\\Instrument_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1527223176583,
+            "changeTime": 1527223176583,
+            "contentHash": "2c4cb3920fac78aaff34c292320fab02a6cde27f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\Instrument__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\Instrument__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2154,
+            "modifiedTime": 1527223176569,
+            "changeTime": 1527223176569,
+            "contentHash": "09e3322977c8d509c3cb783219b80ba8f3bd5439",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176586,
+            "changeTime": 1527223176586,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\objects\\Instrument__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1527223176591,
+            "changeTime": 1527223176591,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176602,
+            "changeTime": 1527223176602,
+            "contentHash": "5874c182003ed26929083a9b7e89b51f28e95f4c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages\\Clock.page",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages\\Clock.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1814,
+            "modifiedTime": 1527223176604,
+            "changeTime": 1527223176604,
+            "contentHash": "0c1c050767914c933b9357365de23d8f7cb9cd0d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages\\Clock.page-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\pages\\Clock.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 281,
+            "modifiedTime": 1527223176600,
+            "changeTime": 1527223176600,
+            "contentHash": "595c0168693234f11d13376314d7e2473ef8b6d0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176609,
+            "changeTime": 1527223176609,
+            "contentHash": "9520811c432c3fc1a19486878f27a0ccfe83e2dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets\\Instruments_user_permset.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\permissionsets\\Instruments_user_permset.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 896,
+            "modifiedTime": 1527223176611,
+            "changeTime": 1527223176611,
+            "contentHash": "bc7559c789e972feb5d25c1d699757707ca445c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527223176619,
+            "changeTime": 1527223176619,
+            "contentHash": "a2362b8777a2c401cc027bd0bd870263d5d5c7ea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs\\Clock.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs\\Clock.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1527223176616,
+            "changeTime": 1527223176616,
+            "contentHash": "4394a6c2aeda400ab54698c39842327def80f175",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs\\Instrument__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject\\force-app\\main\\default\\tabs\\Instrument__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1527223176620,
+            "changeTime": 1527223176620,
+            "contentHash": "da40fd47fd712a8195abfe3be719e0a7b66868d8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\sfdxtest\\myproject",
+        {
+            "state": "n",
+            "sourcePath": "C:\\sfdxtest\\myproject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1527221880199,
+            "changeTime": 1527221880199,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

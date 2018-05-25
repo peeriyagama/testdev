@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Instruments Manager Unmanaged</fullName>
+    <description>Unmanaged package for DE to DX</description>
+    <types>
+        <members>Clock</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>Instruments_Manager</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Instrument__c.Description__c</members>
+        <members>Instrument__c.Instrument_ID__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Instrument__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Clock</members>
+        <members>Instrument__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Test_images</members>
+        <members>Test_images/im_logo.png</members>
+        <name>Document</name>
+    </types>
+    <types>
+        <members>Instrument__c-Instrument Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Instrument__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Instruments_user_permset</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>42.0</version>
+</Package>
